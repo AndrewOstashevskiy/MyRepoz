@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 erytui
 dsfgthg
+=======
+dfgjyklyuiyterytui
+>>>>>>> master
