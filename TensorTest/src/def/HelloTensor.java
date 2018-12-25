@@ -1,5 +1,5 @@
 package def;
-
+/*test program of tensor flow*/
 import org.tensorflow.Graph;
 import org.tensorflow.Session;
 import org.tensorflow.Tensor;
